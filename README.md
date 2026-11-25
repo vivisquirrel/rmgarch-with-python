@@ -1,4 +1,4 @@
-# rmgarchpy — rmgarch 的 Python 移植
+# rmgarchpy — R语言中 rmgarch 的 Python 实现
 
 `rmgarchpy` 是 R 语言量化金融库 **rmgarch**（Alexios Galanos, github.com/alexiosg/rmgarch）
 的 Python 实现，面向量化投资研究中的 **多变量 GARCH（Multivariate GARCH）** 建模需求。
